@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:common:18.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/989c846504d7331365ef17dbc486090d/transformed/jetified-common-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f5f95104544c3fb4dc854121de5c109/transformed/jetified-common-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bebb9e1593c2b55d64ba5ab85aad173c/transformed/jetified-common-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0e3964d7659ea7ecb068cbdf977f70c0/transformed/jetified-common-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d574a192504f242883a75fd969ff1157/transformed/jetified-common-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3b1e0de3165e527f0de0d28efd722ca9/transformed/jetified-common-18.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d7d8c09c140305282cfd858e8972772c/transformed/jetified-common-18.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d7d8c09c140305282cfd858e8972772c/transformed/jetified-common-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d7d8c09c140305282cfd858e8972772c/transformed/jetified-common-18.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/common/18.0.0/886c0cfd902670b7c61f1b9d1d35790fb95d763b/common-18.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

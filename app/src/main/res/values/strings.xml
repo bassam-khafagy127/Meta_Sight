@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Titles -->
+    <string name="app_name" translatable="false">Meta Sight</string>
+    <string name="app_dev" translatable="false">Bassam Khafagy</string>
+    <string name="Description_for_about">About Developer</string>
+    <string name="Description_for_LogoIcon">Click Me</string>
+    <string name="Description_for_detectIcon">Detect Things Around Me</string>
+    <string name="Description_for_colorIcon">Color Recognition</string>
+    <string name="Description_for_moneyIcon">Money Recognition</string>
+    <string name="Description_for_libraryIcon">The Library</string>
+    <string name="Description_for_converterIcon">Convert Pdf and Word</string>
+    <string name="Description_for_ocrIcon">Reading physical Character</string>
+    <string name="detectIcon">Detector</string>
+    <string name="colorIcon">\t\t Color \n Recognition</string>
+    <string name="moneyIcon">\t\t Money \n Recognition</string>
+    <string name="libraryIcon">The Library</string>
+    <string name="converterIcon">Converter</string>
+    <string name="ocrIcon">\t Character \n Recognition</string>
+    <string name="extracted_Title">Extracted Text</string>
+    <string name="result">You Result Appear Hear</string>
+    <string name="title_ocr">Reading Character</string>
+    <string name="text_to_sound">Text to sound</string>
+    <!--Player page-->
+    <string name="audio_book_player">Audio Book Player</string>
+    <string name="book_name">Book_Name</string>
+    <string name="authour_name">Authour_Name</string>
+    <string name="read_now">Read Now</string>
+    <!--About page-->
+    <string name="about_company">Delta Academy</string>
+    <string name="url_Link">Share The App</string>
+    <string name="about_authour">Bassam Khafagy</string>
+    <string name="version">Version</string>
+    <string name="version_n">0.1</string>
+    <string name="about_license" translatable="false">License</string>
+    <string name="settings">Settings</string>
+    <string name="about">About Developer</string>
+    <string name="rating">Rate Us</string>
+    <string name="wish">Don\'t forget to Pray for US</string>
+    <string name="dev">Developer</string>
+    <string name="developer">Delta Student\'s</string>
+    <string name="company">Company</string>
+    <string name="about_app">About</string>
+    <!-- color recognition -->
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error" translatable="false">This device doesn\'t support Camera2 API.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">Threads:</string>
+
+    <string name="model">Model:</string>
+    <string-array name="models">
+        <item>Quantized</item>
+        <item>Float</item>
+    </string-array>
+    <string name="device">Device:</string>
+
+
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="object_detection">Object Detection</string>
+    <string name="about_address">Talkha Sherbeen St, Talkha City Talkha, Dakahlia Governorate</string>
+    <string name="color_page_content_description">color recognition page</string>
+    <string name="About_page_content_description">Abot page</string>
+    <string name="converter_page_content_description">Converter page</string>
+    <string name="library_page_content_description">Library page</string>
+    <string name="home_page_content_description">Home Page</string>
+    <string name="money_page_content_description">Money recognition</string>
+    <string name="ocr_page_content_description">Optical Character page</string>
+    <string name="pdf_to_text_page_content_description">Convert Pdf to Text page</string>
+    <string name="player_page_content_description">Audio Book Player</string>
+    <string name="text_to_sound_page_content_description">Book to Auido Book page</string>
+    <string name="object_page_content_description">Object Detector page</string>
+    <string name="splash_welcom">Count on me my dear …</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="general">General</string>
+    <string name="text_to_speech">Text To Speech</string>
+    <string name="language">Language</string>
+    <string name="ar">Ar</string>
+    <string name="en">En</string>
+    <string name="dark_mood">Dark Mood</string>
+    <string name="audios_directory">Audios Directory</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="about_us">About US</string>
+    <string name="report_a_bug">Report a bug</string>
+    <string name="pdf_to_text">Pdf To Text</string>
+    <string name="library">Library</string>
+    <string name="no_songs_found">NO SONGS FOUND</string>
+    <string name="arabic_activated">Arabic Activated</string>
+    <string name="english_activated">English Activated</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Svoka:android-folder-picker-library:2.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/455fdada80b84ce2f9f48dfda996d13b/transformed/jetified-android-folder-picker-library-2.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/455fdada80b84ce2f9f48dfda996d13b/transformed/jetified-android-folder-picker-library-2.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/455fdada80b84ce2f9f48dfda996d13b/transformed/jetified-android-folder-picker-library-2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Svoka/android-folder-picker-library/2.2/ef6fe553ae8107604d73eba4e443610abf913542/android-folder-picker-library-2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Svoka/android-folder-picker-library/2.2/c38a625d82f2d0afaf9553fb365f1214fdac1efe/android-folder-picker-library-2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

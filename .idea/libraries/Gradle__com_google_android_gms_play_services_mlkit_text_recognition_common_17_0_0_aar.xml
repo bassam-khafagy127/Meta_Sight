@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab0023fba10241c5fc250c1ed5888d9b/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b6cae108685947e4ec9cca3a8d471dd/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/89768e9dc3c04b2e6a5013cee74ad91a/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2e344d5218a938fc005858ee891c7d9a/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b8ada0310fc494070ed67a22123fe8f2/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a6372909f606aee69765f5ce050d813c/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea02d4b2c8e768e9a20c52aa69acff18/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea02d4b2c8e768e9a20c52aa69acff18/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ea02d4b2c8e768e9a20c52aa69acff18/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-text-recognition-common/17.0.0/a5cb690a32e42822789e696992253fe571e82654/play-services-mlkit-text-recognition-common-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

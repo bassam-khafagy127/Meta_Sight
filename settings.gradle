@@ -1,0 +1,4 @@
+rootProject.name = "Meta Sight"
+include ':app'
+include ':lib_interpreter'
+include ':lib_task_api'

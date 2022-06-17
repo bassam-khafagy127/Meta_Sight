@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825623535125",
+    "project_id": "meta-sight",
+    "storage_bucket": "meta-sight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825623535125:android:c217a300b622c1fffdf81c",
+        "android_client_info": {
+          "package_name": "com.example.metasight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825623535125-v3cuom66mufs7km2q8qpg3hmh0uue5nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzpC8ds7eWGmZab8kJayHYTGIpUUG7SWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825623535125-v3cuom66mufs7km2q8qpg3hmh0uue5nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

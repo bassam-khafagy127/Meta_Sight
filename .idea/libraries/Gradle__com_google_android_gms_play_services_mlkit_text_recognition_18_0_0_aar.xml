@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-mlkit-text-recognition:18.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/22550139f3bed1edacdf9995efde381c/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/275cbcb25b16d593bdc6c7fa9abd60d3/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/784bd75bbe4952b14aeb04fef5f48b9b/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a63c2522974d0b432a756fc8f6d4d8d/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2dc331da79cf681a1247f93353222abc/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dc3a4f58be622b27b4a9e3f02dfb7462/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/47ecc1a9b37981e0dd2a9b0868936abf/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/47ecc1a9b37981e0dd2a9b0868936abf/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/47ecc1a9b37981e0dd2a9b0868936abf/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-text-recognition/18.0.0/eb768ae030fdd6a8dc7974a0aab603b70b76b957/play-services-mlkit-text-recognition-18.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

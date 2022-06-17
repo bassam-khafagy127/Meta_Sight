@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Description_for_about">عن المطور</string>
+    <string name="Description_for_LogoIcon">اضغط هنا</string>
+    <string name="Description_for_detectIcon">إكتشاف الاشياء والكائنات</string>
+    <string name="Description_for_libraryIcon">مكتبة الصوتيات</string>
+    <string name="Description_for_converterIcon">تحويل الكتب</string>
+    <string name="Description_for_ocrIcon">قارئ الحروف اليدوية</string>
+    <string name="title_ocr">قارئ الحروف</string>
+    <string name="result">النتيجة المخرجات تظهر هنا</string>
+    <string name="Description_for_colorIcon">ناطق الألوان</string>
+    <string name="Description_for_moneyIcon">قارئ العملات</string>
+    <!--Title-->
+    <string name="detectIcon">المكتشف</string>
+    <string name="colorIcon">مميز الألوان</string>
+    <string name="moneyIcon">محدد قيمة النقود</string>
+    <string name="libraryIcon">المكتبة</string>
+    <string name="converterIcon">تحويل الكتب</string>
+    <string name="ocrIcon">قارئ الحروف الضوئية</string>
+    <string name="about_authour">بسام خفاجي</string>
+    <string name="settings">الإعدادات</string>
+    <string name="about">عن مطوري التطبيق</string>
+    <string name="rating">قيم التطبيق</string>
+    <string name="about_company">أكاديمية الدلتا</string>
+    <string name="url_Link">شارك التطبيق</string>
+    <string name="version">الإصدار</string>
+    <string name="version_n">0.1</string>
+    <string name="wish">لا تنسونا من صالح دعائكم</string>
+    <string name="developer">طلبة أكاديمية الدلتا</string>
+    <string name="dev">المطورين</string>
+    <string name="company">الشركة</string>
+    <string name="about_app">عن التطبيق</string>
+    <string name="extracted_Title">النص المستخرج</string>
+    <string name="object_detection">مكتشف المحيط</string>
+    <string name="about_address">طلخا - الدقهلية</string>
+    <string name="description_info">عن</string>
+    <string name="text_to_sound">النص إلي صوت</string>
+    <string name="audio_book_player">مشغل الكتب الصوتية</string>
+    <string name="book_name">اسم الكتاب</string>
+    <string name="authour_name">اسم الكاتب</string>
+    <string name="read_now">إقرء لي</string>
+    <!--content description for pages-->
+    <string name="color_page_content_description">الواجهة الرئيسية للمتعرف علي الألوان</string>
+    <string name="About_page_content_description">صفحة المطورين</string>
+    <string name="converter_page_content_description">واجهة تحويل الملفات</string>
+    <string name="library_page_content_description"> المكتبة</string>
+    <string name="home_page_content_description">الواجهة الرئيسية</string>
+    <string name="money_page_content_description">المتعرف علي النقود</string>
+    <string name="ocr_page_content_description">التعرف الضوئي علي النصوص</string>
+    <string name="pdf_to_text_page_content_description">وصواجهة تحويل الملفات إلي نص</string>
+    <string name="player_page_content_description">المكتبة الصوتية</string>
+    <string name="text_to_sound_page_content_description">واجهة تحويل النص إلي كتاب صوتي</string>
+    <string name="object_page_content_description">مكتشف المحيط</string>
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+    <string name="device">Device:</string>
+    <string name="model">Model:</string>
+    <string name="request_permission">هذا التبيق يحتاج صلاحية الوصول للكاميرا.</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">هذا الجهاز t\ لا يدعم Camera2 API</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">Threads:</string>
+    <string name="splash_welcom">اعتمد على يا عزيزي …</string>
+    <string name="general">عام</string>
+    <string name="text_to_speech">النص إلي كلام</string>
+    <string name="ar">ar</string>
+    <string name="en">en</string>
+    <string name="dark_mood">الثيم المظلم</string>
+    <string name="audios_directory">مجلد الصوتيات</string>
+    <string name="send_feedback">إرسال مقترحات</string>
+    <string name="about_us">عن المطورين</string>
+    <string name="report_a_bug">ابلغ عن خطأ</string>
+    <string-array name="models">
+        <item>Quantized</item>
+        <item>Float</item>
+    </string-array>
+    <string name="language">اللغة</string>
+
+    <string name="title_activity_settings">قائمة الإعدادات</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">الرسالة</string>
+    <string name="sync_header">مزامنة</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">التوقيع</string>
+    <string name="reply_title">الرد التلقائي</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">مزامنة الحساب</string>
+    <string name="attachment_title">تحميل الملفات القادمة</string>
+    <string name="attachment_summary_on">التحميل التلقائي للملحقات
+    </string>
+    <string name="attachment_summary_off">التحمل عند الطلب اليدوي فقط</string>
+    <string name="pdf_to_text">الملفات إلي نصوص </string>
+    <string name="library">المكتبة</string>
+    <string name="no_songs_found">لا يوجد كتب</string>
+    <string name="arabic_activated">تم تفعيل العربية</string>
+    <string name="english_activated">تم تفعيل الانجيليزية</string>
+</resources>

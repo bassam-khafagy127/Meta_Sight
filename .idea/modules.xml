@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Meta_Sight.iml" filepath="$PROJECT_DIR$/.idea/modules/Meta_Sight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Meta_Sight.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Meta_Sight.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Meta_Sight.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Meta_Sight.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Meta_Sight.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Meta_Sight.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Meta_Sight.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Meta_Sight.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/Meta_Sight.lib_interpreter.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/Meta_Sight.lib_interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/Meta_Sight.lib_interpreter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/Meta_Sight.lib_interpreter.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/Meta_Sight.lib_interpreter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/Meta_Sight.lib_interpreter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_interpreter/Meta_Sight.lib_interpreter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_interpreter/Meta_Sight.lib_interpreter.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_task_api/Meta_Sight.lib_task_api.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_task_api/Meta_Sight.lib_task_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_task_api/Meta_Sight.lib_task_api.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_task_api/Meta_Sight.lib_task_api.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_task_api/Meta_Sight.lib_task_api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_task_api/Meta_Sight.lib_task_api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_task_api/Meta_Sight.lib_task_api.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_task_api/Meta_Sight.lib_task_api.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9A2762"
+    android:contentDescription="@string/ocr_page_content_description"
+    tools:context=".ocr_tts.OCR_Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/action_barr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_300sdp">
+
+            <ImageView
+                android:id="@+id/image_v"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:src="@drawable/sc_img" />
+
+        </FrameLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:text="@string/extracted_Title"
+            android:textAlignment="center"
+            android:textColor="@color/text"
+            android:textSize="@dimen/_20ssp"
+            android:textStyle="bold" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_150sdp">
+
+            <EditText
+                android:id="@+id/text_show"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="@dimen/_5sdp"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:fontFamily="@font/cairo"
+                android:gravity="center"
+                android:hint="@string/result"
+                android:padding="@dimen/_5sdp"
+                android:scrollX="@dimen/_20ssp"
+                android:scrollbars="vertical"
+                android:textAlignment="center"
+                android:textColor="@color/text"
+                android:textColorHint="@color/white"
+                android:textSize="@dimen/_16sdp"
+                android:textStyle="bold|italic" />
+        </FrameLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/dark_blue"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <ImageButton
+                android:id="@+id/pic_a_pictuer"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:background="@color/dark_blue"
+                android:foreground="@drawable/pic_apic" />
+
+            <ImageButton
+                android:id="@+id/snap_pictuer"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_margin="@dimen/_40sdp"
+                android:background="@drawable/solidcircle"
+                android:foreground="@drawable/centercircle" />
+
+            <ImageButton
+                android:id="@+id/detect_text"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:background="@color/dark_blue"
+                android:foreground="@drawable/detect" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
+

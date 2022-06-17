@@ -1,0 +1,9 @@
+two_hundred
+hundred_pound
+fifty_pound
+twenty_pound
+ten_pound
+five_pound
+one_pound
+half_pound
+else
